@@ -7,3 +7,9 @@
 // to make dynamic and interective in web pages
 // for example html is noun, css = adjective, js = verb(behaiviour)
 // emascript 6 is biggest update to the language ever
+
+let js = "amazing";
+if (js === "amazing") alert("javascriptt is fun!");
+
+let val = 40 + 8 + 23 - 10;
+console.log(val);
